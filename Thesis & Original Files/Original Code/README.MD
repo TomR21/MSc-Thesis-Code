@@ -1,0 +1,1 @@
+Contains all original code as I used while writing the thesis. Note that it is very unordered and contains little explanation of functions etc. Mostly uploaded double checking results of the thesis is desired following the exact same steps as taken by me. 
