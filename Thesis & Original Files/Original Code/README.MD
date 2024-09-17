@@ -1,1 +1,1 @@
-Contains all original code as I used while writing the thesis. Note that it is very unordered and contains little explanation of functions etc. Mostly uploaded double checking results of the thesis is desired following the exact same steps as taken by me. 
+Contains all original code as I used while writing the thesis. Note that it is very unordered and sometimes contains little explanation of functions etc. Mostly uploaded for double checking results of the thesis if desired, do so by running the cell blocks in order.  
